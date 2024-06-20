@@ -69,16 +69,4 @@ This project is intended for educational purposes. Enhance security and function
 
 We welcome contributions!
 
-**License:**
 
-This project is licensed under the MIT License (see LICENSE file for details).
-
-**Additional Notes:**
-
-- Replace `your-username` and `your-application-name` with your actual values.
-- Consider including screenshots or a short demo video to showcase the application's functionality.
-- Provide clear instructions within the code for database connection configuration.
-- Explore user authentication and authorization mechanisms for secure access control.
-- If using JSP, include details about JSP page usage and interaction with servlets.
-
-By incorporating these elements, you can make your README more informative and user-friendly for developers who might use or contribute to your Student Result Management System project.
